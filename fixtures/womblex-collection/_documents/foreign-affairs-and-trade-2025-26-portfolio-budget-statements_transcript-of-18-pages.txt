@@ -1,0 +1,534 @@
+# Portfolio Budget Statements 2025–26
+
+**Budget Related Paper No. 1.8**
+
+**FOREIGN AFFAIRS AND TRADE Portfolio**  
+Budget Initiatives and Explanations of Appropriations  
+Specified by Outcomes and Programs by Entity
+
+© Commonwealth of Australia 2025
+
+ISBN 2653-4045 (Print), 2653-4053 (Online)
+
+This publication is available for your use under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) licence, with the exception of the Commonwealth Coat of Arms, third‑party content and where otherwise stated. The full licence terms are available from <http://creativecommons.org/licenses/by/4.0/legalcode>.
+
+![Creative Commons logo](media/image2.jpeg){width="0.9701388888888889in" height="0.33611111111111114in"}
+
+Use of Commonwealth of Australia material under [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) licence requires you to attribute the work (but not in any way that suggests that the Commonwealth of Australia endorses you or your use of the work).
+
+**Commonwealth of Australia material used 'as supplied'**  
+Provided you have not modified or transformed Commonwealth of Australia material in any way including, for example, by changing the Commonwealth of Australia text; calculating percentage changes; graphing or charting data; or deriving new statistics from published statistics – then the Commonwealth of Australia prefers the following attribution:
+
+> Source: *The Commonwealth of Australia.*
+
+**Derivative material**  
+If you have modified or transformed Commonwealth of Australia material, or derived new material from those of the Commonwealth of Australia in any way, then the Commonwealth of Australia prefers the following attribution:
+
+> *Based on Commonwealth of Australia data.*
+
+**Use of the Coat of Arms**  
+The terms under which the Coat of Arms can be used are set out on the Department of the Prime Minister and Cabinet website (see [www.pmc.gov.au/ honours-and-symbols/commonwealth-coat-arms](http://www.pmc.gov.au/honours-and-symbols/commonwealth-coat-arms))
+
+**Other uses**  
+Enquiries regarding this licence and any other use of this document are welcome at:  
+Chief Financial Officer, Department of Foreign Affairs and Trade
+
+
+**SENATOR THE HON PENNY WONG**  
+Minister for Foreign Affairs
+
+**SENATOR THE HON DON FARRELL**  
+Minister for Trade and Tourism  
+Special Minister of State
+
+**THE HON PAT CONROY MP**  
+Minister for International Development and the Pacific  
+Minister for Defence Industry and Capability Delivery
+
+President of the Senate  
+Australian Senate  
+Parliament House  
+CANBERRA ACT 2600
+
+Speaker  
+House of Representatives  
+Parliament House  
+CANBERRA ACT 2600
+
+Dear President  
+Dear Mr Speaker
+
+We hereby submit the Portfolio Budget Statements in support of the 2025–26 Budget for the *Foreign Affairs and Trade* portfolio.
+
+These statements have been developed, and are submitted to the Parliament, as a statement on the outcomes for the portfolio.
+
+We present these statements to provide accountability to the Parliament and, through it, the public.
+
+![A black background with a black square.](media/image4.png){width="1.414413823272091in" height="0.6159076990376203in"}![A close up of a signature Description automatically generated](media/image5.png){width="1.1159722222222221in" height="0.8828827646544182in"}![A blue line drawn on a white background AI-generated content may be incorrect.](media/image6.png){width="1.2527777777777778in" height="0.4951388888888889in"}  
+Yours sincerely
+
+| **PENNY WONG** | **DON FARRELL** | **PAT CONROY** |
+|----------------|-----------------|----------------|
+
+## Abbreviations and conventions
+
+The following notation may be used:
+
+> NEC/nec not elsewhere classified  
+> ‑ nil  
+> .. not zero, but rounded to zero  
+> na not applicable (unless otherwise specified)  
+> nfp not for publication  
+> \$m \$ million  
+> \$b \$ billion
+
+Figures in tables and in the text may be rounded. Figures in text are generally rounded to one decimal place, whereas figures in tables are generally rounded to the nearest thousand. Discrepancies in tables between totals and sums of components are due to rounding.
+
+**Enquiries**  
+Should you have any enquiries regarding this publication please contact Chief Financial Officer, Department of Foreign Affairs and Trade on (02) 6261 1111.
+
+Links to Portfolio Budget Statements (including Portfolio Additional Estimates Statements and Portfolio Supplementary Additional Statements) can be located on the Australian Government Budget website at: [www.budget.gov.au](http://www.budget.gov.au).
+
+# User guide
+
+The purpose of the *2025–26 Portfolio Budget Statements* (PB Statements) is to inform Senators and Members of Parliament of the proposed allocation of resources to government outcomes by entities within the portfolio. Entities receive resources from the annual appropriations acts, special appropriations (including standing appropriations and special accounts), and revenue from other sources.
+
+A key role of the PB Statements is to facilitate the understanding of proposed annual appropriations in Appropriation Bills (No. 1 and No. 2) 2025–2026 (or Appropriation (Parliamentary Departments) Bill *(*No. 1) 2025–2026 for the parliamentary departments) and related Supply Bills where they exist applicable to the 2025–26 Budget. In this sense, the PB Statements are Budget related papers and are declared by the Appropriation Acts to be 'relevant documents' to the interpretation of the Acts according to section 15AB of the *Acts Interpretation Act 1901*.
+
+The PB Statements provide information, explanation and justification to enable Parliament to understand the purpose of each outcome proposed in the Bills.
+
+As required under section 12 of the *Charter of Budget Honesty Act 1998*, only entities within the general government sector are included as part of the Commonwealth general government sector fiscal estimates and produce PB Statements where they receive funding (either directly or via portfolio departments) through the annual appropriation acts.
+
+## The Commonwealth performance framework
+
+The following diagram outlines the key components of the Commonwealth performance framework. The diagram identifies the content of each of the publications and the relationship between them. Links to the publications for each entity within the portfolio can be found in the introduction to Section 2: Outcomes and planned performance.
+
+**Commonwealth performance framework**  
+Key components of relevant publications
+
+**Portfolio Budget Statements**  
+(typically May)  
+Portfolio based
+
+- Supports Annual Appropriations. Informs senators and members of parliament of the proposed allocations of other resources to government outcomes and programs.
+- Provides links to relevant programs undertaken by other Commonwealth entities.
+- Provides high‑level performance information for current, ongoing programs.
+- Provides detailed performance information for proposed new budget measures that require a new program or significantly change an existing program.
+- Links to the corporate plan through reporting key activities.
+
+**Corporate plan**  
+(31 August)  
+Entity based
+
+- Primary planning document of a Commonwealth entity.
+- Sets out the purposes of the entity and the key activities it will undertake to achieve its purposes over a minimum 4‑year period.
+- Describes the environment in which the entity operates, the capability it requires to undertake its key activities, its risk oversight and management systems including key risks and how those are managed, and how it will cooperate with others, including any subsidiaries, to achieve its purposes.
+- Explains how the entity's performance will be measured and assessed.
+
+**Annual performance statements**  
+(October following year)  
+Entity based
+
+- Included in the Commonwealth entity's annual report.
+- Reports on the actual performance results for the reporting year as set out in the corporate plan and Portfolio Budget Statements.
+- Provides an analysis of the factors that may have contributed to the entity's performance results.
+
+## Contents
+
+[User guide [vii](#user-guide)](#user-guide)  
+[Foreign Affairs and Trade Portfolio overview 3](#_Toc65243501)  
+[Entity resources and planned performance 7](#_Toc65243501)  
+[Department of Foreign Affairs and Trade 9](#department-of-foreign-affairs-and-trade)  
+[Australian Trade and Investment Commision 71](#_Toc65243501)  
+[Australian Centre for International Agricultural Research 105](#_Toc65243501)  
+[Australian Secret Intelligence Service 131](#_Toc65243501)  
+[Tourism Australia 147](#_Toc65243501)  
+[Portfolio glossary 173](#portfolio-glossary)
+
+# Foreign Affairs and Trade Portfolio overview
+
+## Minister(s) and portfolio responsibilities
+
+The Foreign Affairs and Trade portfolio has five ministers:
+
+- Senator the Hon Penny Wong, Minister for Foreign Affairs
+- Senator the Hon Don Farrell, Minister for Trade and Tourism, Special Minister of State
+- The Hon Pat Conroy MP, Minister for International Development and the Pacific, Minister for Defence Industry and Capability Delivery
+- Senator the Hon Tim Ayres, Assistant Minister for Trade, Assistant Minister for a Future Made in Australia
+- The Hon Tim Watts MP, Assistant Minister for Foreign Affairs
+
+The portfolio consists of the Department of Foreign Affairs and Trade (DFAT, 'the department'), the Australian Trade and Investment Commission (Austrade), the Australian Centre for International Agricultural Research (ACIAR), the Australian Secret Intelligence Service (ASIS), Tourism Australia and Export Finance Australia (EFA).
+
+**Department of Foreign Affairs and Trade (DFAT)**
+
+DFAT works to promote and protect Australia's interests overseas in support of our security and prosperity. To achieve this purpose, DFAT provides a global diplomatic and influencing capability, leads international strategic policy advice, deepens economic engagement, and delivers international development and humanitarian assistance. To protect the welfare of Australians abroad, DFAT delivers travel advice and consular and passport services. DFAT leads whole-of-government efforts across an international network of 115 DFAT managed posts, to make Australia stronger, safer and more prosperous, including ensuring a secure Australian Government presence overseas.
+
+**Australian Trade and Investment Commission (Austrade)**
+
+Austrade's purpose is to deliver quality trade and investment services to businesses and policy advice to government to grow Australia's prosperity, including leading on national tourism policy. To achieve this purpose, Austrade supports Australian businesses to expand through trade facilitation and program support; facilitates high-quality international investment; conducts global marketing and promotion to create brand awareness and generate demand for Australian goods and services; leads visitor economy policy development and official tourism statistics; uses Austrade's global and commercial insights to inform Australian Government policy considerations; and provides consular and passport services on behalf of the Australian Government in 11 overseas locations.
+
+Austrade also administers the legislated Export Market Development Grants program to assist Australian businesses promote and diversify their exports.
+
+**Australian Secret Intelligence Service (ASIS)**
+
+Through ASIS, the portfolio will continue to enhance the Government's understanding of the overseas environment affecting Australia's vital interests and take appropriate action, consistent with applicable legislation, to protect identified interests.
+
+**Australian Centre for International Agricultural Research (ACIAR)**
+
+ACIAR supports Australia's national interests by investing in collaborative research and capacity-building partnerships to improve the livelihoods and resilience of smallholder farming, fishing and forestry communities in the Indo-Pacific region. To achieve this, ACIAR partners bilaterally and multilaterally with governments and institutions to grow food more efficiently, increase food system resilience, improve human nutrition, empower women and girls, reduce poverty, and manage natural resources sustainably to adapt to increasing climate variability. These partnerships optimise economic, social and environmental benefits for partner countries, and contribute to the development of our international and Australian partner institutions' research, policy and leadership capacities.
+
+**Tourism Australia**
+
+Tourism Australia is Australia's national tourism marketing organisation. It works to promote Australia internationally as a compelling tourism destination for leisure and business events travel. Through its marketing to global consumers in key markets and industry support activities, Tourism Australia seeks to grow demand and foster a competitive and sustainable Australian tourism industry.
+
+**Export Finance Australia (EFA)**
+
+EFA (legally constituted as the Export Finance and Insurance Corporation) is Australia's export credit agency. EFA provides commercial finance for Australian export trade and overseas infrastructure development that delivers benefits to Australia. From small and medium sized enterprises (SMEs) to large corporates, foreign Governments and infrastructure projects, EFA helps Australian businesses take on the world. In doing so, EFA finance supports Australia's economic security and regional resilience. EFA works closely with banks and other financial institutions to encourage and catalyse private market financing, and partners with DFAT and Austrade in the delivery of these services.
+
+EFA administers the Australian Government's National Interest Account (NIA), which currently includes the Southeast Asia Investment Financing Facility, the Critical Minerals Facility, the Defence Export Facility and lending for the Australian Infrastructure Financing Facility for the Pacific. As part of the Australian Government's Future Made in Australia agenda, EFA can also finance major domestic projects, aligned with the National Interest Framework, on the NIA. EFA also provides support to other Commonwealth entities, including Housing Australia and the Northern Australia Infrastructure Facility.
+
+For information on resourcing across the portfolio, please refer to Part 1: Agency Financial Resourcing in the *Budget Paper No. 4: Agency Resourcing*.
+
+**Figure 1: Foreign Affairs and Trade portfolio structure and outcomes**
+
+*(The figure is described in the original as an image with the caption: "Figure 1: Foreign Affairs and Trade portfolio structure and outcomes". The image file is referenced as media/image8.emf but is not reproduced here.)*
+
+# Entity resources and planned performance
+
+Department of Foreign Affairs and Trade 	9
+
+Australian Trade and Investment Commission 		71
+
+Australian Centre for International Agricultural Research 		105
+
+Australian Secret Intelligence Service 		131
+
+Tourism Australia 		147
+
+
+# Department of Foreign Affairs and Trade
+
+## Section 1: Entity overview and resources
+
+### 1.1 Strategic direction statement
+
+The purpose of the Department of Foreign Affairs and Trade (the department) is to make Australia stronger, safer and more prosperous, to provide timely and responsive consular and passport services, and to ensure a secure Australian Government presence overseas. The department does this by focusing on our region, where our interests are most at stake; investing not only in traditional but also in more diverse relationships; and upholding international rules that protect us all.
+
+The department prioritises region, relationships and rules: focusing on the Indo‑Pacific, building common ground with other countries, and encouraging the world to operate by agreed rules. In today's interconnected world, what we do abroad needs to reinforce—and be reinforced by—who we are and what we do at home.
+
+As we seek to maintain peace in our region, our nation's front line is diplomacy. By combining all arms of our national power—including economic, strategic, diplomatic, development and military—as well as by working with our partners, we can advance our interests and values, and create a credible deterrent for any potential adversary. The department leads this work overseas on behalf of the Australian Government.
+
+In our region, Australia is progressing Pacific partnerships in unprecedented ways, turbocharging our economic ties with Southeast Asia, and upgrading and diversifying key relationships. In the world, we are defending and upholding global rules, protecting Australian citizens, and promoting Australia's interests in peace, security and trade.
+
+**Region**
+
+We live in an interconnected world, but what matters most to Australia's future is our own region, the Indo‑Pacific. The Indo‑Pacific is where Australia faces our greatest opportunities and biggest risks. It is home to many of the largest growing economies in the world. Yet it has also seen a military build‑up unprecedented at any time since World War Two, intense great power competition that risks spiralling into conflict, coercive behaviour, and the impacts of climate change.
+
+Australia's interests are in a region that is peaceful, stable and prosperous—where no country dominates, and all countries have the freedom to decide their own futures, without interference. We want a region where we operate by the same rules, and where we have space to agree and to disagree. That requires all countries to contribute to a regional balance of power.
+
+To achieve these interests, we must invest heavily in our engagement with the countries of our region. Our success in making ourselves a partner of choice will be decisive in seizing opportunities and navigating uncertainty. This is why so much of Australia's international effort is focused on building common ground and alignment in a wider range of regional relationships. We work together both to build reassurance of our peaceful intent, and also to create deterrence against the threat of conflict—through economic development, diplomacy and security cooperation.
+
+In the Pacific, the department will focus on:
+
+- working to ensure Australia remains a partner of choice, by building bilateral partnerships and working with our neighbours to build Pacific‑led security responses, and implementing the historic Falepili Union treaty with Tuvalu and the Nauru‑Australia Treaty; we will also grow our partnership with Papua New Guinea, including through our Bilateral Security Partnership
+- boosting economic growth by supporting critical human development outcomes in health and education—along with other activities that underpin economic sustainability in the region including critical infrastructure, telecommunications cables, banking and aviation connectivity
+- recognising that climate change is the Pacific's top concern and responding with practical support for climate resilience and adaptation, including through supporting Pacific‑led initiatives like the Pacific Resilience Facility
+- building the people‑to‑people links that underpin bilateral relationships through supporting labour mobility programs and migration options; we will coordinate work with partner governments to ensure migration is mutually beneficial and facilitates skills transfer
+- deepening Australia's First Nations international engagement, led by the Ambassador for First Nations People; our engagement has enabled genuine dialogue on shared regional challenges, including how knowledge, culture and mutual understanding are a force for practical change, and is also opening new doors for First Nations businesses and organisations
+
+In Southeast Asia, the department will prioritise:
+
+- deepening engagement and fostering alignment with ASEAN and the countries of Southeast Asia, including by building on the formal upgrades of our diplomatic relationships with the Philippines, Brunei and Laos; we also continue to further our longstanding ties with Indonesia, Vietnam, Malaysia and Singapore, where our cooperation is underpinned by Comprehensive Strategic Partnerships
+- increasing our trade and investment, development, security and defence ties with Indonesia, including through the Indonesia‑Australia Comprehensive Economic Partnership Agreement and supporting ratification of our landmark Defence Cooperation Agreement
+- championing ASEAN's central role in upholding the collective peace, security and prosperity of the region
+- deepening our partnership with Timor‑Leste to support long‑term economic resilience and advance our shared interest in a peaceful, stable and prosperous region
+- implementing *Invested:* *Australia's Southeast Asia Economic Strategy to 2040*, to help more Australian businesses seize the opportunities in one of the world's fastest growing regions
+- expanding engagement with the region through the ASEAN‑Australia Centre—a \$33.1 million investment that will grow business, education, cultural and community connections between Australia, ASEAN member states and Timor‑Leste; the Centre will also connect young entrepreneurs and emerging leaders, laying the groundwork for our shared future
+
+Across our region, the department will focus on:
+
+- continuing to rebuild Australia's development program in the Indo‑Pacific, which is building partnerships to tackle some of the most entrenched challenges in our region like poverty, economic growth, health, infrastructure investment, climate change, food security, disability and gender equality; our approach is helping make Australia a partner of choice for the countries of our region, and ensuring our security and economic strength
+- reforming the New Colombo Plan, ensuring the program supports Australia's strategic objectives to deepen engagement in our region and lift the capability of our people; these reforms include a greater emphasis on students learning languages and undertaking longer‑term study experiences in the Indo‑Pacific, augmenting our reputation for world‑class international education
+- upholding the United Nations Convention on the Law of the Sea (UNCLOS) and preventing conflict and building strategic trust; this includes working closely with regional partners to uphold international law in the South China Sea
+- strengthening the Quad partnership with India, Japan and the United States of America—three important Indo‑Pacific countries—to promote regional peace, stability and development
+- advancing a sustainable and secure Indian Ocean to build capacity to preserve and protect the maritime domain, including establishing a Marine and Coastal Resilience Hub under India's Indo‑Pacific Oceans Initiative, hosting workshops to build capacity in the Indian Ocean region on UNCLOS, and expanding our diplomatic footprint in the region, opening posts in Bengaluru, Kolkata and Malé
+
+**Relationships**
+
+Because Australia is a medium‑sized country, building alignment with partners gives us more weight in resisting shared threats—and multiplies our choices in solving shared problems. In these ways, partnering with others means we have more control even in the face of greater uncertainty.
+
+We partner with other countries directly, in small groups like the Quad, and through organisations like the Pacific Islands Forum, ASEAN, the United Nations and the G20. Part of our focus is reinforcing our relationships with traditional partners, including with the United Kingdom, the United States of America, New Zealand and Canada. We have strengthened our ties with Europe, including with the European Union, and through the *Australia‑France Roadmap for Cooperation*.
+
+But as the world becomes more uncertain, we need even stronger relationships closer to home. Australia needs more diversified relationships: more partnerships that are important to our future, especially in our region—as outlined in the preceding pages.
+
+Developing those relationships takes time and effort—including ongoing direct engagement with high‑level visits and cooperation on issues of mutual concern, like climate change and economic development. We are seeing the results of our efforts in the Pacific and Southeast Asia—where our ties with nations such as Fiji and Indonesia are so critical to our national interests. And Australia's relationships with Japan, India and the Republic of Korea have never been closer.
+
+The focus of the department will be on:
+
+- advancing our relationship with the United States of America, which is our closest ally, principal strategic partner and largest two‑way investment partner; the Australia‑United States alliance is central to Australian and regional security, as is the network of US alliances in our region—at the same time as we have invested in more diverse relationships in the region and the world, we have continued to build our longstanding and bipartisan alliance with the United States
+- continuing to stabilise ties with China without compromising on our national interest; this has involved patient diplomacy and restoring ministerial level‑dialogue between our two countries, including in education, climate change, economics and trade
+- enhancing our cooperation with India, including by deepening our alignment on regional activities, supporting increased defence exercises and maritime domain awareness activities, and expanding our economic cooperation through the new Roadmap for economic engagement with India, the Australia‑India Business Exchange and the Centre for Australia‑India Relations
+- coordinating the modernisation of our substantial trade, investment, defence and security links with Japan; as democracies and middle powers, we share perspectives on responding to challenges in our region
+- developing our economic and strategic relationship with the Republic of Korea, which is a crucial partner in Australia's efforts to maintain a regional balance of power
+- deepening our relationships in the North East Indian Ocean to contribute to the region's strategic balance is an immediate priority; we are protecting our sea lanes of communication, prioritising the resilience and autonomy of our partners and promoting economic security—with a focus on Bangladesh, Maldives and Sri Lanka
+- continuing to implement the AUKUS Security Partnership, which will lift the submarine industrial bases and undersea capabilities of Australia, the United States of America and the United Kingdom, promoting a stable Indo‑Pacific and deterring potential threats to Australia and the region
+
+**Rules**
+
+Australia is better off in a world guided by the rules that are agreed between nations. These rules are the way we level the playing field for nations of all sizes. They are how we ensure that the world is not governed by might or size alone, and enable small and medium countries to have a say. This is how these rules shape the character of the region and world in our interests.
+
+Nations like Australia rely on these rules, to address climate change, to promote human rights, to protect our marine and maritime interests, and to relegate nuclear, chemical and biological weapons to history. We need to work together with other countries to uphold and strengthen existing rules, and also to develop approaches on rules for newer global problems, including cyberattacks, interference, disinformation and economic coercion.
+
+The department will strengthen rules and institutions by:
+
+- protecting core treaties that underpin sovereignty and prosperity
+- deterring and responding to malicious cyber actors, including through attributions, Australia's first ever cyber sanctions, and support to strengthen cyber resilience in the Pacific
+- respecting the independence of the institutions that uphold international law, including the International Court of Justice and the International Criminal Court
+- pursuing truth, justice and accountability for the victims of the downing of Flight MH17
+- championing human rights, gender equality and social inclusion—and holding countries and perpetrators to account for violating international human rights, including through Magnitsky‑style sanctions
+- bolstering the global non‑proliferation and disarmament regime
+- shaping global health reform, to ensure the international community is better equipped to prevent, prepare for, detect and respond rapidly to future public health emergencies
+- affirming the role of the World Trade Organization in ensuring free and fair trade
+- reiterating our support for the United Nations, where 193 nations come together, because many of our biggest problems require regional and global solutions; this includes seeking election to the UN Security Council for the term 2029–2030
+- ratifying all ten International Labour Organization Fundamental Conventions, ensuring Australia upholds all fundamental international labour rights and is a fair, safe and secure place to work and do business
+
+In addition to these efforts, the department will continue to play a key role in:
+
+- supporting Ukraine's sovereignty in response to Russia's full‑scale invasion of Ukraine in flagrant violation of the UN Charter; this includes \$1.5 billion in Australian Government assistance to Ukraine since February 2022, and introduced over 1,400 targeted financial sanctions and travel bans against individuals and entities of strategic significance to Russia
+- implementing targeted sanctions to respond to situations of international concern, including to deter and disrupt breaches of international law, egregious human rights abuses and other threats to our national interest; and we are strengthening coordination on sanctions with international partners
+- working with international partners to advocate for regional peace and security in the Middle East, while addressing humanitarian needs, and pressing for adherence to international law
+
+Australia has an abiding interest in participating in the regional and global architecture, assisting nations to preserve rules and norms and navigate turbulent times. We are members of a diverse range of organisations, including the G20, APEC, MIKTA, the OECD, the Commonwealth, the United Nations and the Commission on the Status of Women. As a founding member of both the G20 and APEC, Australia is working together to steer our citizens through a challenging global economy. We also prioritise regional architecture, as a member of the Pacific Islands Forum, the Indian Ocean Rim Association, the East Asia Summit and the ASEAN Regional Forum, and as the first Dialogue Partner of ASEAN.
+
+The Australian Government will also continue to respond to humanitarian crises. Australia has an abiding commitment to helping others in crisis, which keeps our region secure and our people safe. Australia's new Humanitarian Policy outlines the role Australia will play at a time when need is outstripping the world's capacity to respond, and disregard for international law is increasing. We are investing further to support countries and communities in the Indo‑Pacific region to be better prepared and able to respond to humanitarian disasters including the increasing impacts of climate change.
+
+We are also providing additional assistance to help address the needs of the record number of people forcibly displaced from their homes, and over 300 million people in need of lifesaving assistance globally. This will build on the support provided to Bangladesh, Myanmar and communities affected by the Rohingya crisis since 2017, and the humanitarian assistance to support civilians impacted by conflicts in Gaza, Lebanon and the region since 7 October 2023.
+
+In conflict zones, we cannot protect civilians unless we also protect the aid workers who provide lifesaving food, water and medicine. But each year, more and more aid workers are killed. Australia is working with a cross‑regional group of countries to galvanise high‑level global commitment through a new Declaration for the Protection of Humanitarian Personnel to better protect aid workers and strengthen compliance with international law. The declaration will encourage states to support practical measures to ensure aid workers have the information, communications and equipment they need to operate safely in conflict zones.
+
+We will also continue to play our part in peacebuilding and security through development assistance, diplomatic efforts and multilateral engagement.
+
+**Supporting free and fair trade**
+
+As a trading nation, Australia benefits greatly from a stable and open global trading system that has underpinned security and prosperity for decades—including through the World Trade Organization. Australia led in building the two largest regional deals—the Regional Comprehensive Economic Partnership (RCEP), and the Comprehensive and Progressive Agreement for Trans‑Pacific Partnership (CPTPP). The department will continue to drive engagement through these, knowing that Australia's national interest lies in being at every table where economic integration in Asia is being progressed.
+
+Australia has secured a new free trade agreement with the United Arab Emirates and our agreements with India and the UK have entered into force, which will deliver further benefits for Australians. The department will continue to focus on advancing Australia's trade relationships with the United States, and reinforce the Australia–United States Free Trade Agreement which entered into force 20 years ago. Australia will continue trade negotiations with India for a comprehensive economic cooperation agreement.
+
+**Advocating for human rights and gender equality**
+
+Australia deals with the world as it is and seeks to shape it for the better. Our support for human rights and values is central to who we are and to what Australia does in the world. We will continue to advance rights and protections globally and in our region, and our Anti‑Slavery Commissioner will continue to strengthen Australia's efforts to end modern slavery.
+
+We have appointed an Ambassador for Gender Equality and are implementing a new International Gender Equality Strategy, as well as a new International Disability Equity and Rights Strategy. We are ensuring Australia's development assistance has targets for gender equality and disability equity, so no‑one is left behind. Australia has also joined Germany, Canada and the Netherlands to hold Afghanistan to account under international law for the Taliban's treatment of women and girls.
+
+**Reaching the world**
+
+Australia's diplomatic network spans 115 overseas posts and consulates in more than 90 countries around the world. This presence enables us to promote Australia's interests in peace, security, trade, investment and other areas of cooperation. The department will continue to deliver an overseas property estate that is effectively managed, safe and secure.
+
+Australia's efforts in the world keep Australians more secure at home, but as the world becomes more uncertain and unstable, the Australian Government's support for Australians overseas is increasingly important. There are more than one million Australians overseas at any time, and the department leads and coordinates efforts to help Australians in trouble overseas. In 2023–24, the department managed over 15,200 cases of consular and crisis assistance and responded to 53,137 calls to the Consular Emergency Centre. The department can be supporting some 1,422 consular cases at any one time. The department will continue its focus on providing consular support to Australians in 2025–26.
+
+Further information about the department's operating environment and key activities, and how it measures performance, is detailed in the department's Corporate Plan 2024–25.
+
+### 1.2 Entity resource statement
+
+*(Table 1.1 is presented as an image in the original document and cannot be reproduced here. It provides the resource statement for DFAT with estimates for 2025–26 as at Budget March 2025, showing total resourcing from annual appropriations, special appropriations, and other sources.)*
+
+
+### 1.3 Budget measures
+
+Budget measures in Part 1 relating to the Department of Foreign Affairs and Trade are detailed in the Budget Paper No. 2 and are summarised below.
+
+**Table 1.2: Entity 2025–26 Budget measures**
+
+| Part 1: Measures announced since the 2024–25 Mid-Year Economic and Fiscal Outlook (MYEFO) | Impact on underlying cash ($'000) |
+|-------------------------------------------------------------------------------------------|----------------------------------|
+| Australia’s International Development Policy – ongoing funding                            | +160,000                         |
+| Additional funding for Australia’s Southeast Asia economic engagement                     | +42,200                          |
+| AUKUS – nuclear‑powered submarine program – funding for the Department of Foreign Affairs and Trade | +19,100                  |
+| Consular services – additional resourcing                                                 | +12,500                          |
+| New Colombo Plan reforms                                                                  | +3,800                           |
+| Australian Passport Office – additional resources to manage demand                        | +2,500                           |
+| Australia‑France Roadmap – ongoing cooperation                                            | +1,800                           |
+| ASEAN‑Australia Centre – establishment                                                    | +1,500                           |
+| International Gender Equality Strategy – implementation                                   | +1,200                           |
+| **Total**                                                                                 | **+244,600**                     |
+
+*Prepared on a Government Finance Statistics (Underlying Cash) basis. Figures displayed as a negative (‑) represent a decrease in funds and a positive (+) represent an increase in funds.*
+
+a) The full measure description and package details appear in Budget Paper No. 2 under the Foreign Affairs and Trade portfolio.  
+b) The full measure description and package details appear in Budget Paper No. 2 under the Defence portfolio.  
+c) The full measure description and package details appear in Budget Paper No. 2 under the Cross portfolio.
+
+
+## Section 2: Outcomes and planned performance
+
+Government outcomes are the intended results, impacts or consequences of actions by the Government on the Australian community. Commonwealth programs are the primary vehicle by which government entities achieve the intended results of their outcome statements. Entities are required to identify the programs which contribute to government outcomes over the Budget and forward years.
+
+Each outcome is described below together with its related programs. The following provides detailed information on expenses for each outcome and program, further broken down by funding source.
+
+> **Note:**  
+> Performance reporting requirements in the Portfolio Budget Statements are part of the Commonwealth performance framework established by the *Public Governance, Performance and Accountability Act 2013*. It is anticipated that the performance measure described in Portfolio Budget Statements will be read with broader information provided in an entity's corporate plans and annual performance statements – included in Annual Reports – to provide a complete picture of an entity's planned and actual performance.
+>
+> The most recent corporate plan for the Department of Foreign Affairs and Trade can be found at:  
+> <https://www.dfat.gov.au/about-us/publications/corporate/dfat-corporate-plan>.
+>
+> The most recent annual performance statement can be found at:  
+> <https://www.dfat.gov.au/about-us/publications/corporate/annual-reports>.
+
+### 2.1 Budgeted expenses and performance for Outcome 1
+
+**Outcome 1:** The advancement of Australia's international strategic, security and economic interests including through bilateral, regional and multilateral engagement on Australian Government foreign, trade and international development policy priorities.
+
+#### Linked programs
+
+*(List of linked programs from other entities)*
+
+| Entity | Programs |
+|--------|---------|
+| Attorney‑General's Department | Program 1.1 – Attorney‑General's – Departmental |
+| Australian Centre for International Agricultural Research | Program 1.1 – International Agricultural Research for Development |
+| Australian Federal Police | Program 3.2 – International Police Assistance and External Territories |
+| Australian Trade and Investment Commission | Program 1.1 – Supporting Australian exporters to expand internationally, attracting productive internal investment, and growing the visitor economy; Program 1.2 – Programs to support Australian exporters to expand internationally, attract productive international investment, and grow the visitor economy |
+| Australian Submarine Agency | Program 1.1 – Nuclear‑Powered Submarine Program |
+| Department of Climate Change, Energy, the Environment and Water | Program 1.1 – Reduce Australia's greenhouse gas emissions; Program 1.2 – Support reliable, secure and affordable energy; Program 2.1 – Conserve, protect and sustainably manage Australia's natural environment through a nature positive approach; Program 2.2 – Protect Australia's cultural, historic and First Nations heritage; Program 3.1 – Contribute to Australia's national Antarctic interests through science, environmental management and international engagement |
+| Department of Defence | Program 2.8 – Australian Defence Force Headquarters; Program 2.16 – Nuclear Powered Submarines |
+| Department of Education | Program 2.7 – International Education Support |
+| Department of Employment and Workplace Relations | Program 1.1 – Employment Services |
+| Department of Home Affairs | Program 1.2 – National Security and Resilience; Program 1.4 – Counter Terrorism; Program 1.5 – Regional Cooperation; Program 2.2 – Visas; Program 2.3 – Refugee, Humanitarian, Settlement and Migrant Services; Program 2.5 – Multicultural Affairs and Citizenship; Program 3.1 – Trade Facilitation and Industry Engagement; Program 3.4 – Border Enforcement |
+| Tourism Australia | Program 1.1 – Supporting Outcome 1 |
+
+**Contribution to Outcome 1 made by linked programs**  
+Australia maintains a whole‑of‑government approach in the pursuit of foreign trade and investment, tourism, development and international security interests abroad. DFAT is supported by partner agencies in its associated leadership, advocacy and coordination roles at overseas missions.
+
+
+##### Budgeted expenses for Outcome 1
+
+**Table 2.1.1: Budgeted expenses for Outcome 1**
+
+| | 2024–25 Estimated actual $'000 | 2025–26 Budget $'000 | 2026–27 Forward estimate $'000 | 2027–28 Forward estimate $'000 | 2028–29 Forward estimate $'000 |
+|---------------------------------|--------------------------------|----------------------|--------------------------------|--------------------------------|--------------------------------|
+| **Program 1.1 – Foreign Affairs and Trade Operations** | | | | | |
+| Administered expenses | 18,564 | 20,215 | 20,357 | 20,502 | 20,649 |
+| Departmental expenses | 1,098,546 | 1,179,316 | 1,150,389 | 1,159,626 | 1,165,434 |
+| **Total program expenses** | **1,117,110** | **1,199,531** | **1,170,746** | **1,180,128** | **1,186,083** |
+| **Program 1.2 – Official Development Assistance** | | | | | |
+| Administered expenses | 4,534,451 | 4,259,007 | 4,302,773 | 4,298,203 | 4,293,625 |
+| Departmental expenses | 17,216 | 16,706 | 16,920 | 16,734 | 16,738 |
+| **Total program expenses** | **4,551,667** | **4,275,713** | **4,319,693** | **4,314,937** | **4,310,363** |
+| **Program 1.3 – Official Development Assistance – Multilateral Replenishments** | | | | | |
+| Administered expenses | 988,069 | – | 776,000 | 200,000 | – |
+| Departmental expenses | – | – | – | – | – |
+| **Total program expenses** | **988,069** | **–** | **776,000** | **200,000** | **–** |
+| **Program 1.4 – Payments to International Organisations** | | | | | |
+| Administered expenses | 463,664 | 470,719 | 474,366 | 477,579 | 480,744 |
+| Departmental expenses | – | – | – | – | – |
+| **Total program expenses** | **463,664** | **470,719** | **474,366** | **477,579** | **480,744** |
+| **Program 1.5 – New Colombo Plan – Transforming Regional Relationships** | | | | | |
+| Administered expenses | 72,976 | 78,530 | 78,389 | 77,432 | 73,958 |
+| Departmental expenses | 11,566 | 11,127 | 11,101 | 10,785 | 10,451 |
+| **Total program expenses** | **84,542** | **89,657** | **89,490** | **88,217** | **84,409** |
+| **Program 1.6 – Public Information Services and Public Diplomacy** | | | | | |
+| Administered expenses | 24,359 | 27,042 | 27,705 | 27,273 | 26,638 |
+| Departmental expenses | 6,324 | 5,984 | 5,916 | 5,745 | 5,582 |
+| **Total program expenses** | **30,683** | **33,026** | **33,621** | **33,018** | **32,220** |
+| **Program 1.7 – Programs to Promote Australia's International Tourism Interests** | | | | | |
+| Administered expenses | – | – | – | – | – |
+| Departmental expenses | – | – | – | – | – |
+| **Total program expenses** | **–** | **–** | **–** | **–** | **–** |
+| **Program 1.8 – Nuclear‑Powered Submarine Program** | | | | | |
+| Administered expenses | 3,081 | 2,939 | 2,692 | 2,431 | 2,259 |
+| Departmental expenses | 17,674 | 17,990 | 15,938 | 15,812 | 15,783 |
+| **Total program expenses** | **20,755** | **20,929** | **18,630** | **18,243** | **18,042** |
+| **Total Outcome 1** | | | | | |
+| Total administered | 6,105,164 | 4,858,452 | 5,682,282 | 5,103,420 | 4,897,873 |
+| Total departmental | 1,151,326 | 1,231,123 | 1,200,264 | 1,208,702 | 1,213,988 |
+| **Total expenses** | **7,256,490** | **6,089,575** | **6,882,546** | **6,312,122** | **6,111,861** |
+
+*Note: Departmental appropriation splits and totals are indicative estimates and may change in the course of the budget year as government priorities change.*
+
+
+**Table 2.1.2: Program components of Outcome 1 – Program 1.1**
+
+| Component | 2025–26 Budget $'000 |
+|-----------|---------------------|
+| **Administered:** | |
+| Public information and public diplomacy | 8,622 |
+| International organisations – contributions | 5,209 |
+| Other administered | 6,384 |
+| **Departmental:** | |
+| Departmental operations | 1,179,316 |
+
+**Table 2.1.2: Program components of Outcome 1 – Program 1.2**
+
+| Component | 2025–26 Budget $'000 |
+|-----------|---------------------|
+| **Administered:** | |
+| Country and regional programs | 2,940,620 |
+| Global programs | 566,149 |
+| Humanitarian and disaster risk reduction | 752,238 |
+| **Departmental:** | |
+| Departmental operations | 16,706 |
+
+**Table 2.1.2: Program components of Outcome 1 – Program 1.6**
+
+| Component | 2025–26 Budget $'000 |
+|-----------|---------------------|
+| **Administered:** | |
+| Public diplomacy | 27,042 |
+| **Departmental:** | |
+| Departmental operations | 5,984 |
+
+**Table 2.1.2: Program components of Outcome 1 – Program 1.7**
+
+| Component | 2025–26 Budget $'000 |
+|-----------|---------------------|
+| **Administered:** | |
+| Payment to Tourism Australia | – |
+| **Departmental:** | |
+| Departmental operations | – |
+
+**Table 2.1.2: Program components of Outcome 1 – Program 1.8**
+
+| Component | 2025–26 Budget $'000 |
+|-----------|---------------------|
+| **Administered:** | |
+| Nuclear‑Powered Submarine Program | 2,939 |
+| **Departmental:** | |
+| Departmental operations | 17,990 |
+
+
+**Table 2.1.3: Performance measures for Outcome 1**
+
+**Outcome 1** – The advancement of Australia's international strategic, security and economic interests including through bilateral, regional and multilateral engagement on Australian Government foreign, trade and international development policy priorities.
+
+**Program 1.1 – Foreign Affairs and Trade Operations**  
+The department will assist the government to meet its foreign, trade and investment, development and international security policy priorities.
+
+| **Key activities** | Key activities reported in the Corporate Plan 2024-25 that relate to this program. – Negotiate and advocate internationally and provide international policy advice. |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| **Year** | **Performance measures** | **Expected performance results** |
+|----------|--------------------------|----------------------------------|
+| Current Year 2024–25 | DFAT's diplomatic efforts support favourable foreign affairs and trade policy outcomes for Australia. | **Target:** Six¹ case studies demonstrate performance. **1. Upgraded relationship with Vietnam**² – DFAT is **on track** to achieve the favourable outcomes of this case study. **2. Upgraded relationship with the Philippines**² – In progress. This case study will be assessed at the end of the performance cycle and reported in the Annual Performance Statements 2024-25. **3. Resolution of the trade impediments with China on Australian live rock lobster exports and red meat**² – DFAT has **achieved** the favourable outcomes of this case study. **4. Deliver a New Roadmap for Economic Engagement with India**² – DFAT is **at risk** of not achieving the favourable outcomes of this case study during the reporting period of 1 July to 31 December. An activity planned for delivery before 31 December 2024 was delivered after that timeframe. **5. Advocate for an enduring Australian banking presence in the Pacific, and support the World Bank to develop a regional banking solution** – DFAT is **on track** to achieve the favourable outcomes of this case study. **6. Implement 2024-25 Australia‑France Roadmap deliverables**² – DFAT is **on track** to achieve the favourable outcomes of this case study. **Performance Measure:** Results will be known after 30 June 2025 and reported in the Annual Performance Statements 2024-25. |
+| Budget Year 2025–26 | DFAT's diplomatic efforts support favourable foreign affairs and trade policy outcomes for Australia. | **Target:** Case studies demonstrate performance. Specific case study topics will be identified in the Corporate Plan 2025-26. |
+| Forward Estimates 2026–29 | As per 2025-26 | As per 2025-26 |
+
+*Material changes to Program 1.1 resulting from 2025–26 Budget Measures: Nil*
+
+¹ The case study title published in the Corporate Plan 2024-25 'Upgraded relationships with Vietnam and the Philippines' has been separated for reporting purposes changing the total to 6 case studies.  
+² The title of this case study has been amended.
+
+
+**Program 1.2 – Official Development Assistance**  
+Promotes Australia's national interests by contributing to sustainable and inclusive economic growth and poverty reduction.
+
+| **Key activities** | Key activities reported in the Corporate Plan 2024-25 that relate to this program. – Deliver international development and humanitarian assistance. |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| **Year** | **Performance measures** | **Expected performance results** |
+|----------|--------------------------|----------------------------------|
+| Current Year 2024–25 | The development program is effective, efficient and responsive. | **Target:** At least 85 per cent of investments are assessed as satisfactory on both effectiveness and efficiency criteria in the annual Investment Monitoring Report process. Data for 2024-25 will be reported in the Annual Performance Statements 2024-25. |
+| Budget Year 2025–26 | The development program is effective, efficient and responsive. | **Target:** At least 85 per cent of investments are assessed as satisfactory on both effectiveness and efficiency criteria in Investment Monitoring Report process. |
+| Forward Estimates 2026–29 | As per 2025-26 | As per 2025-26 |
+
+*Material changes to Program 1.2 resulting from 2025–26 Budget Measures: Nil*
+

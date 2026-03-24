@@ -1,0 +1,322 @@
+                                                                                Unnamed: 0
+                                     Fuel Minimum Stockholding Obligation (MSO) Statistics
+                                                                                          
+DCCEEW 2025, Fuel Minimum Stockholding Obligation (MSO) Statistics, September quarter 2025
+                                                                                          
+                                                                     Diesel MSO Statistics
+                                                                   Gasoline MSO Statistics
+                                                                   Kerosene MSO Statistics
+---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   © Commonwealth of Australia  2025
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Ownership of intellectual property rights
+                                                                                                                                                                                                                                                                                                                                                                                                                                     Unless otherwise noted, copyright (and any other intellectual property rights) in this publication is owned by the Commonwealth of Australia (referred to as the Commonwealth).
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Creative Commons licence
+                                                                                                                                                                                                                                                                                                                                                                                                                      All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content supplied by third parties, logos and the Commonwealth Coat of Arms.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Inquiries about the licence and any use of this document should be emailed to
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             copyright@dcceew.gov.au
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Cataloguing data
+                                                                                                                                                                                                                                                                                                                                                                              This publication (and any material sourced from it) should be attributed as: DCCEEW 2025, Fuel Minimum Stockholding Obligation (MSO) Statistics, Department of Climate Change, Energy, the Environment and Water, Canberra. CC BY 4.0.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    This publication is available at
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Minimum stockholding obligation for liquid fuels: statistics - DCCEEW
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Department of Climate Change, Energy, the Environment and Water
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      GPO Box 3090 Canberra ACT 2601
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Telephone 1800 920 528
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          https://www.dcceew.gov.au/
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Disclaimer
+The Australian Government acting through the Department of Climate Change, Energy, the Environment and Water has exercised due care and skill in preparing and compiling the information and data in this publication. Notwithstanding, the Department of Climate Change, Energy, the Environment and Water, its employees and advisers disclaim all liability, including liability for negligence and for any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying on any of the information or data in this publication to the maximum extent permitted by law.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Acknowledgement of Country
+                                                                                                                                                                                                                                                                                                                                                                                                                  We acknowledge the Traditional Owners of Country throughout Australia and recognise their continuing connection to land, waters and culture. We pay our respects to their Elders past and present.
+---
+                                                                                                                                                                                                                                                                                                                                                                                                                                    Glossary                                                                                                                                                                                                                                       Definition
+                                                                                                                                                                                                                                                                                                                                                                                                                      Number of MSO entities                                                                                                                                                                             Total number of entities with a stockholding obligation in each year
+                                                                                                                                                                                                                                                                                                                                                                                                                   Stocks required under MSO                                                                       Volume required to be held on each obligation day, sum of all MSO entities (ML). Excludes any temporary reductions approved under section 18 of the Fuel Security Act 2021
+                                                                                                                                                                                                                                                                                                                                                                                                                       Stocks held under MSO                                                                                                                                   Volume reported on each obligation day, sum of all MSO entities, quarterly average of each obligation day (ML)
+                                                                                                                                                                                                                                                                                                                                                                                                               Minimum stocks held under MSO                                                                                                                                                                             Minimum volume reported in the quarter, sum of all MSO entities (ML)
+                                                                                                                                                                                                                                                                                                                                                                                                               Maximum stocks held under MSO                                                                                                                                                                             Maximum volume reported in the quarter, sum of all MSO entities (ML)
+                                                                                                                                                                                                                                                                                                                                                                                          Average stock held under MSO (Days equivalent) [1] Volume of stock held on each obligation day, sum of all MSO entities, converted to equivalent days of consumption. Consumption is average daily consumption for previous 12 months. Quarterly average of days equivalent for each obligation day
+                                                                                                                                                                                                                                                                                                                                                                                              Instances of reports below required volume [2]                                                                                                                                                                Number of instances an entity reported volume below their stockholding obligation
+                                                                                                                                                                                                                                                                                                                                                                                                                                          ML                                                                                                                                                                                                                       Megalitres; Million litres
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                                                                                                                                                       Notes                                                                                                                                                                                                                                                 
+[1] In December quarter 2024 diesel stocks held under the MSO were equivalent to 31 days. Target days for 2024-25 are 32 days for importers and 20 days for refiners. For public reporting purposes, stocks held and days equivalent for refiners and importers are combined due to commercial sensitivity.  Refiners have lower target days than importers which means their combined average can be below the target days for importers.                                                                                                                                                                                                                                                   
+                                                                                                                                     [2] There have been 2690 MSO reports by entities since the MSO introduction on 1 July 2023. Of this, there were 3 instances where an entity reported stock volume below their obligation. The total stock held by all entities exceeded the total obligation for all reporting periods during the year.                                                                                                                                                                                                                                                 
+---
+                                                                                                                                                                                                                                                                                                                            Accessible text for graphic:
+                                                                                                                                                                                                                                                                               Minimum stockholding obligation for fuel in Australia 2024-25 statistics.
+                                                                                                                                                                                                                                                           Major fuel importers and refiners must hold minimum volumes of diesel, gasoline and kerosene.
+                                                                                                                                                                                                                                                             Column chart comparing minimum required and average held for diesel, gasoline and kerosene.
+                                                                                                                                                                                                                                                                                      Column one: Diesel minimum required 2485 ML, average held 2968 ML.
+                                                                                                                                                                                                                                                                                    Column two: Gasoline minimum required 1070 ML, average held 1743 ML.
+                                                                                                                                                                                                                                                                                    Column three: Kerosene minimum required 581 ML, average held 799 ML.
+                                                                                                                                                                                                                                                      All entities held higher average stocks of diesel, gasoline and kerosene than required in 2024-25.
+                                                                                                                                                                                                                                                           Oil icon showing diesel 19% above, gasoline 63% above and kerosene 38% above required volume.
+Stocks can be held in Australia and on water in Australia's exclusive economic zone. Stocks of gasoline, kerosene and diesel include eligible crude oil and unfinished products held at refineries. These inclusions means MSO statistics are not comparable with gasoline, kerosene and diesel stocks reported in the Australian Petroelum Statistics. 
+---
+Number of MSO entities: Diesel
+Stocks required under MSO (ML): Diesel
+Average stock held under MSO (ML): Diesel
+Minimum stock held under MSO (ML): Diesel
+Maximum stock held under MSO (ML): Diesel
+Average stock held under MSO (Days equivalent) [1]: Diesel
+Instances of reports below required volume [2]: Diesel
+---
+Quarter: 2023-09-01 00:00:00
+Number of MSO entities: 9
+Stocks required under MSO (ML): 1656
+Average stock held under MSO (ML): 2590
+Minimum stock held under MSO (ML): 2391
+Maximum stock held under MSO (ML): 2740
+Average stock held under MSO (Days equivalent) [1]: 29
+Instances of reports below required volume [2]: 0
+---
+Quarter: 2023-12-01 00:00:00
+Number of MSO entities: 9
+Stocks required under MSO (ML): 1656
+Average stock held under MSO (ML): 2464
+Minimum stock held under MSO (ML): 2377
+Maximum stock held under MSO (ML): 2566
+Average stock held under MSO (Days equivalent) [1]: 28
+Instances of reports below required volume [2]: 1
+---
+Quarter: 2024-03-01 00:00:00
+Number of MSO entities: 9
+Stocks required under MSO (ML): 1656
+Average stock held under MSO (ML): 2628
+Minimum stock held under MSO (ML): 2319
+Maximum stock held under MSO (ML): 2833
+Average stock held under MSO (Days equivalent) [1]: 29
+Instances of reports below required volume [2]: 0
+---
+Quarter: 2024-06-01 00:00:00
+Number of MSO entities: 9
+Stocks required under MSO (ML): 1656
+Average stock held under MSO (ML): 2683
+Minimum stock held under MSO (ML): 2543
+Maximum stock held under MSO (ML): 2927
+Average stock held under MSO (Days equivalent) [1]: 30
+Instances of reports below required volume [2]: 0
+---
+Quarter: 2024-09-01 00:00:00
+Number of MSO entities: 10
+Stocks required under MSO (ML): 2485
+Average stock held under MSO (ML): 2989
+Minimum stock held under MSO (ML): 2729
+Maximum stock held under MSO (ML): 3129
+Average stock held under MSO (Days equivalent) [1]: 33
+Instances of reports below required volume [2]: 0
+---
+Quarter: 2024-12-01 00:00:00
+Number of MSO entities: 10
+Stocks required under MSO (ML): 2485
+Average stock held under MSO (ML): 2863
+Minimum stock held under MSO (ML): 2699
+Maximum stock held under MSO (ML): 3045
+Average stock held under MSO (Days equivalent) [1]: 31
+Instances of reports below required volume [2]: 1
+---
+Quarter: 2025-03-01 00:00:00
+Number of MSO entities: 10
+Stocks required under MSO (ML): 2485
+Average stock held under MSO (ML): 3111
+Minimum stock held under MSO (ML): 2905
+Maximum stock held under MSO (ML): 3329
+Average stock held under MSO (Days equivalent) [1]: 34
+Instances of reports below required volume [2]: 0
+---
+Quarter: 2025-06-01 00:00:00
+Number of MSO entities: 10
+Stocks required under MSO (ML): 2485
+Average stock held under MSO (ML): 2931
+Minimum stock held under MSO (ML): 2749
+Maximum stock held under MSO (ML): 3150
+Average stock held under MSO (Days equivalent) [1]: 32
+Instances of reports below required volume [2]: 1
+---
+Quarter: 2025-09-01 00:00:00
+Number of MSO entities: 10
+Stocks required under MSO (ML): 2742
+Average stock held under MSO (ML): 3026
+Minimum stock held under MSO (ML): 2796
+Maximum stock held under MSO (ML): 3271
+Average stock held under MSO (Days equivalent) [1]: 33
+Instances of reports below required volume [2]: 0
+---
+Number of MSO entities: Gasoline
+Stocks required under MSO (ML): Gasoline
+Average stock held under MSO (ML): Gasoline
+Minimum stock held under MSO (ML): Gasoline
+Maximum stock held under MSO (ML): Gasoline
+Average stock held under MSO (Days equivalent): Gasoline
+Instances of reports below required volume: Gasoline
+---
+Quarter: 2023-09-01 00:00:00
+Number of MSO entities: 7
+Stocks required under MSO (ML): 961
+Average stock held under MSO (ML): 1778
+Minimum stock held under MSO (ML): 1590
+Maximum stock held under MSO (ML): 1899
+Average stock held under MSO (Days equivalent): 40
+Instances of reports below required volume: 0
+---
+Quarter: 2023-12-01 00:00:00
+Number of MSO entities: 7
+Stocks required under MSO (ML): 961
+Average stock held under MSO (ML): 1644
+Minimum stock held under MSO (ML): 1563
+Maximum stock held under MSO (ML): 1748
+Average stock held under MSO (Days equivalent): 37
+Instances of reports below required volume: 0
+---
+Quarter: 2024-03-01 00:00:00
+Number of MSO entities: 7
+Stocks required under MSO (ML): 961
+Average stock held under MSO (ML): 1657
+Minimum stock held under MSO (ML): 1505
+Maximum stock held under MSO (ML): 1764
+Average stock held under MSO (Days equivalent): 37
+Instances of reports below required volume: 0
+---
+Quarter: 2024-06-01 00:00:00
+Number of MSO entities: 7
+Stocks required under MSO (ML): 961
+Average stock held under MSO (ML): 1748
+Minimum stock held under MSO (ML): 1690
+Maximum stock held under MSO (ML): 1808
+Average stock held under MSO (Days equivalent): 39
+Instances of reports below required volume: 0
+---
+Quarter: 2024-09-01 00:00:00
+Number of MSO entities: 8
+Stocks required under MSO (ML): 1070
+Average stock held under MSO (ML): 1846
+Minimum stock held under MSO (ML): 1616
+Maximum stock held under MSO (ML): 2059
+Average stock held under MSO (Days equivalent): 42
+Instances of reports below required volume: 0
+---
+Quarter: 2024-12-01 00:00:00
+Number of MSO entities: 8
+Stocks required under MSO (ML): 1070
+Average stock held under MSO (ML): 1651
+Minimum stock held under MSO (ML): 1511
+Maximum stock held under MSO (ML): 1813
+Average stock held under MSO (Days equivalent): 37
+Instances of reports below required volume: 0
+---
+Quarter: 2025-03-01 00:00:00
+Number of MSO entities: 8
+Stocks required under MSO (ML): 1070
+Average stock held under MSO (ML): 1781
+Minimum stock held under MSO (ML): 1657
+Maximum stock held under MSO (ML): 1900
+Average stock held under MSO (Days equivalent): 40
+Instances of reports below required volume: 0
+---
+Quarter: 2025-06-01 00:00:00
+Number of MSO entities: 8
+Stocks required under MSO (ML): 1070
+Average stock held under MSO (ML): 1705
+Minimum stock held under MSO (ML): 1561
+Maximum stock held under MSO (ML): 1890
+Average stock held under MSO (Days equivalent): 39
+Instances of reports below required volume: 0
+---
+Quarter: 2025-09-01 00:00:00
+Number of MSO entities: 8
+Stocks required under MSO (ML): 1067
+Average stock held under MSO (ML): 1711
+Minimum stock held under MSO (ML): 1496
+Maximum stock held under MSO (ML): 1858
+Average stock held under MSO (Days equivalent): 39
+Instances of reports below required volume: 0
+---
+Number of MSO entities: Kerosene
+Stocks required under MSO (ML): Kerosene
+Average stock held under MSO (ML): Kerosene
+Minimum stock held under MSO (ML): Kerosene
+Maximum stock held under MSO (ML): Kerosene
+Average stock held under MSO (Days equivalent): Kerosene
+Instances of reports below required volume: Kerosene
+---
+Quarter: 2023-09-01 00:00:00
+Number of MSO entities: 5
+Stocks required under MSO (ML): 364
+Average stock held under MSO (ML): 711
+Minimum stock held under MSO (ML): 629
+Maximum stock held under MSO (ML): 824
+Average stock held under MSO (Days equivalent): 33
+Instances of reports below required volume: 0
+---
+Quarter: 2023-12-01 00:00:00
+Number of MSO entities: 5
+Stocks required under MSO (ML): 364
+Average stock held under MSO (ML): 748
+Minimum stock held under MSO (ML): 669
+Maximum stock held under MSO (ML): 792
+Average stock held under MSO (Days equivalent): 33
+Instances of reports below required volume: 0
+---
+Quarter: 2024-03-01 00:00:00
+Number of MSO entities: 5
+Stocks required under MSO (ML): 364
+Average stock held under MSO (ML): 712
+Minimum stock held under MSO (ML): 547
+Maximum stock held under MSO (ML): 829
+Average stock held under MSO (Days equivalent): 30
+Instances of reports below required volume: 0
+---
+Quarter: 2024-06-01 00:00:00
+Number of MSO entities: 5
+Stocks required under MSO (ML): 364
+Average stock held under MSO (ML): 798
+Minimum stock held under MSO (ML): 721
+Maximum stock held under MSO (ML): 864
+Average stock held under MSO (Days equivalent): 32
+Instances of reports below required volume: 0
+---
+Quarter: 2024-09-01 00:00:00
+Number of MSO entities: 6
+Stocks required under MSO (ML): 581
+Average stock held under MSO (ML): 821
+Minimum stock held under MSO (ML): 746
+Maximum stock held under MSO (ML): 860
+Average stock held under MSO (Days equivalent): 33
+Instances of reports below required volume: 0
+---
+Quarter: 2024-12-01 00:00:00
+Number of MSO entities: 6
+Stocks required under MSO (ML): 581
+Average stock held under MSO (ML): 772
+Minimum stock held under MSO (ML): 711
+Maximum stock held under MSO (ML): 865
+Average stock held under MSO (Days equivalent): 30
+Instances of reports below required volume: 0
+---
+Quarter: 2025-03-01 00:00:00
+Number of MSO entities: 6
+Stocks required under MSO (ML): 581
+Average stock held under MSO (ML): 813
+Minimum stock held under MSO (ML): 736
+Maximum stock held under MSO (ML): 939
+Average stock held under MSO (Days equivalent): 31
+Instances of reports below required volume: 0
+---
+Quarter: 2025-06-01 00:00:00
+Number of MSO entities: 6
+Stocks required under MSO (ML): 581
+Average stock held under MSO (ML): 792
+Minimum stock held under MSO (ML): 698
+Maximum stock held under MSO (ML): 875
+Average stock held under MSO (Days equivalent): 30
+Instances of reports below required volume: 0
+---
+Quarter: 2025-09-01 00:00:00
+Number of MSO entities: 6
+Stocks required under MSO (ML): 663
+Average stock held under MSO (ML): 764
+Minimum stock held under MSO (ML): 683
+Maximum stock held under MSO (ML): 868
+Average stock held under MSO (Days equivalent): 29
+Instances of reports below required volume: 0
